@@ -1,0 +1,21 @@
+FlightID,Origin,Destination,DepartureTime,ArrivalTime,AircraftType,DistanceKM,Status
+FL001,Jakarta,Surabaya,2025-05-06 06:00,2025-05-06 07:30,Boeing 737,670,On Time
+FL002,Bali,Jakarta,2025-05-06 08:15,2025-05-06 09:45,Airbus A320,980,Delayed
+FL003,Medan,Jakarta,2025-05-06 09:30,2025-05-06 11:45,Boeing 737,1410,On Time
+FL004,Surabaya,Bali,2025-05-06 10:00,2025-05-06 11:00,Airbus A330,330,Cancelled
+FL005,Jakarta,Yogyakarta,2025-05-06 12:00,2025-05-06 13:10,Boeing 737,430,On Time
+FL006,Makassar,Jakarta,2025-05-06 13:20,2025-05-06 15:40,Airbus A320,1400,On Time
+FL007,Bali,Surabaya,2025-05-06 14:00,2025-05-06 15:00,Boeing 737,330,Delayed
+FL008,Jakarta,Medan,2025-05-06 15:30,2025-05-06 17:45,Airbus A330,1410,On Time
+FL009,Yogyakarta,Jakarta,2025-05-06 16:00,2025-05-06 17:10,Boeing 737,430,On Time
+FL010,Surabaya,Makassar,2025-05-06 17:15,2025-05-06 18:45,Airbus A320,790,On Time
+FL011,Jakarta,Bali,2025-05-06 18:00,2025-05-06 19:30,Boeing 737,980,Delayed
+FL012,Medan,Surabaya,2025-05-06 19:00,2025-05-06 21:30,Airbus A320,1970,On Time
+FL013,Bali,Makassar,2025-05-06 20:00,2025-05-06 21:20,Boeing 737,630,On Time
+FL014,Jakarta,Palembang,2025-05-06 21:00,2025-05-06 22:00,Airbus A320,430,On Time
+FL015,Surabaya,Jakarta,2025-05-06 22:00,2025-05-06 23:30,Boeing 737,670,Cancelled
+FL016,Yogyakarta,Bali,2025-05-06 06:30,2025-05-06 08:00,Airbus A320,530,On Time
+FL017,Makassar,Surabaya,2025-05-06 07:45,2025-05-06 09:15,Boeing 737,790,Delayed
+FL018,Jakarta,Banjarmasin,2025-05-06 09:00,2025-05-06 10:30,Airbus A330,940,On Time
+FL019,Palembang,Jakarta,2025-05-06 11:00,2025-05-06 12:00,Boeing 737,430,On Time
+FL020,Bali,Medan,2025-05-06 12:30,2025-05-06 15:45,Airbus A320,2300,On Time
