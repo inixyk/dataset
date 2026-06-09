@@ -1,0 +1,201 @@
+Konsumen_SK,Konsumen_ID_Sistem,Nama_Konsumen,Email,Jenis_Kelamin,Tanggal_Lahir,Segmen_Konsumen
+1,USER-001,Ahmad Fauzi,ahmad.fauzi@email.com,Laki-laki,1990-05-14,Loyal
+2,USER-002,Siti Aminah,siti.aminah@email.com,Perempuan,1995-08-22,Pemburu Diskon
+3,USER-003,Budi Utomo,budi.utomo@email.com,Laki-laki,1988-12-01,Jaringan Baru
+4,USER-004,Rina Wijaya,rina.wijaya@email.com,Perempuan,1993-03-10,Loyal
+5,USER-005,Dedi Setiawan,dedi.setiawan@email.com,Laki-laki,1991-07-19,Pemburu Diskon
+6,USER-006,Mega Putri,mega.putri@email.com,Perempuan,1997-11-25,Jaringan Baru
+7,USER-007,Andi Pratama,andi.pratama@email.com,Laki-laki,1985-02-28,Loyal
+8,USER-008,Dewi Lestari,dewi.lestari@email.com,Perempuan,1992-09-05,Loyal
+9,USER-009,Hendra Wijaya,hendra.wijaya@email.com,Laki-laki,1994-04-12,Pemburu Diskon
+10,USER-010,Santi Rahmawati,santi.rahma@email.com,Perempuan,1989-06-30,Jaringan Baru
+11,USER-011,Rian Hidayat,rian.hidayat@email.com,Laki-laki,1996-01-15,Loyal
+12,USER-012,Eka Sari,eka.sari@email.com,Perempuan,1993-10-08,Pemburu Diskon
+13,USER-013,Ferry Kurniawan,ferry.k@email.com,Laki-laki,1990-08-24,Jaringan Baru
+14,USER-014,Yuni Arti,yuni.arti@email.com,Perempuan,1987-12-11,Loyal
+15,USER-015,Agus Susanto,agus.s@email.com,Laki-laki,1983-05-03,Loyal
+16,USER-016,Novianti,novianti@email.com,Perempuan,1995-04-17,Pemburu Diskon
+17,USER-017,taufik Hidayat,taufik.h@email.com,Laki-laki,1991-11-02,Jaringan Baru
+18,USER-018,Indah Permata,indah.p@email.com,Perempuan,1998-07-21,Loyal
+19,USER-019,Roni Purwanto,roni.p@email.com,Laki-laki,1986-09-14,Pemburu Diskon
+20,USER-020,Fitriani,fitriani@email.com,Perempuan,1992-02-26,Loyal
+21,USER-021,Denny Triyugo,denny.t@email.com,Laki-laki,1994-06-05,Jaringan Baru
+22,USER-022,Diana Puspita,diana.p@email.com,Perempuan,1990-03-18,Loyal
+23,USER-023,Lukman Hakim,lukman.h@email.com,Laki-laki,1989-10-29,Pemburu Diskon
+24,USER-024,Maya Sofa,maya.sofa@email.com,Perempuan,1996-12-12,Loyal
+25,USER-025,Aditya Nugraha,aditya.n@email.com,Laki-laki,1993-01-25,Jaringan Baru
+26,USER-026,Putri Kemala,putri.k@email.com,Perempuan,1991-05-09,Pemburu Diskon
+27,USER-027,Rahmat Hidayat,rahmat.h@email.com,Laki-laki,1988-07-14,Loyal
+28,USER-028,Wulan Dari,wulan.d@email.com,Perempuan,1995-09-23,Loyal
+29,USER-029,Anwar Sadat,anwar.s@email.com,Laki-laki,1984-11-04,Jaringan Baru
+30,USER-030,Kusuma Wardani,kusuma.w@email.com,Perempuan,1992-08-16,Pemburu Diskon
+31,USER-031,Bambang Pamungkas,bambang.p@email.com,Laki-laki,1981-06-10,Loyal
+32,USER-032,Sri Wahyuni,sri.w@email.com,Perempuan,1986-04-24,Loyal
+33,USER-033,Heri Santoso,heri.s@email.com,Laki-laki,1990-02-11,Jaringan Baru
+34,USER-034,Lilis Karlina,lilis.k@email.com,Perempuan,1993-10-30,Pemburu Diskon
+35,USER-035,Diki Arisandi,diki.a@email.com,Laki-laki,1995-12-05,Loyal
+36,USER-036,Nining Meida,nining.m@email.com,Perempuan,1989-01-19,Loyal
+37,USER-037,Aris Rahman,aris.r@email.com,Laki-laki,1991-07-07,Jaringan Baru
+38,USER-038,Euis Dahlia,euis.d@email.com,Perempuan,1987-03-14,Pemburu Diskon
+39,USER-039,Zainal Abidin,zainal.a@email.com,Laki-laki,1985-09-27,Loyal
+40,USER-040,Ratna Sari,ratna.s@email.com,Perempuan,1994-05-21,Loyal
+41,USER-041,Irfan Bachdim,irfan.b@email.com,Laki-laki,1988-08-11,Jaringan Baru
+42,USER-042,Siska Rahma,siska.r@email.com,Perempuan,1996-02-14,Pemburu Diskon
+43,USER-043,Yudi Herdian,yudi.h@email.com,Laki-laki,1990-04-03,Loyal
+44,USER-044,Desi Ratnasari,desi.r@email.com,Perempuan,1983-12-18,Loyal
+45,USER-045,Sony Sugema,sony.s@email.com,Laki-laki,1989-10-09,Jaringan Baru
+46,USER-046,Evie Tamala,evie.t@email.com,Perempuan,1991-06-25,Pemburu Diskon
+47,USER-047,Imanuel Wanggai,imanuel.w@email.com,Laki-laki,1988-02-05,Loyal
+48,USER-048,Maria Magdalena,maria.m@email.com,Perempuan,1995-07-12,Loyal
+49,USER-049,Fransiskus,frans@email.com,Laki-laki,1992-03-29,Jaringan Baru
+50,USER-050,Yuliana,yuliana@email.com,Perempuan,1994-11-14,Pemburu Diskon
+51,USER-051,Asep Sunandar,asep.s@email.com,Laki-laki,1982-09-01,Loyal
+52,USER-052,Cecep Gorbachev,cecep.g@email.com,Laki-laki,1986-10-22,Loyal
+53,USER-053,Dadang Sukandar,dadang.s@email.com,Laki-laki,1990-05-17,Jaringan Baru
+54,USER-054,Eneng Hasanah,eneng.h@email.com,Perempuan,1993-02-08,Pemburu Diskon
+55,USER-055,Ginanjar,ginanjar@email.com,Laki-laki,1987-04-19,Loyal
+56,USER-056,Hesti Purwadinata,hesti.p@email.com,Perempuan,1991-08-11,Loyal
+57,USER-057,Iis Dahlia,iis.d@email.com,Perempuan,1985-12-07,Jaringan Baru
+58,USER-058,Jajang Mulyana,jajang.m@email.com,Laki-laki,1989-03-23,Pemburu Diskon
+59,USER-059,Komarudin,komar@email.com,Laki-laki,1994-07-16,Loyal
+60,USER-060,Lilis Suryani,lilis.s@email.com,Perempuan,1996-01-30,Loyal
+61,USER-061,Maman Suherman,maman.s@email.com,Laki-laki,1984-06-12,Jaringan Baru
+62,USER-062,Neneng Anjarwati,neneng.a@email.com,Perempuan,1990-11-04,Pemburu Diskon
+63,USER-063,Oom Komariah,oom.k@email.com,Perempuan,1988-09-25,Loyal
+64,USER-064,Pipik Dian,pipik.d@email.com,Perempuan,1992-05-19,Loyal
+65,USER-065,Qomar,qomar@email.com,Laki-laki,1983-02-27,Jaringan Baru
+66,USER-066,Ria Irawan,ria.i@email.com,Perempuan,1995-10-15,Pemburu Diskon
+67,USER-067,Sule Sutisna,sule@email.com,Laki-laki,1986-11-15,Loyal
+68,USER-068,Tati Saleh,tati.s@email.com,Perempuan,1989-04-02,Loyal
+69,USER-069,Uu Ruzhanul,uu.r@email.com,Laki-laki,1993-08-20,Jaringan Baru
+70,USER-070,Vina Panduwinata,vina.p@email.com,Perempuan,1985-03-06,Pemburu Diskon
+71,USER-071,Wawan Setiawan,wawan.s@email.com,Laki-laki,1991-12-13,Loyal
+72,USER-072,Yayan Ruhian,yayan.r@email.com,Laki-laki,1982-10-19,Loyal
+73,USER-073,Zaskia Gotik,zaskia.g@email.com,Perempuan,1994-04-27,Jaringan Baru
+74,USER-074,Aliando,aliando@email.com,Laki-laki,1996-10-26,Pemburu Diskon
+75,USER-075,Prilly Latuconsina,prilly.l@email.com,Perempuan,1996-10-15,Loyal
+76,USER-076,Raffi Ahmad,raffi.a@email.com,Laki-laki,1987-02-17,Loyal
+77,USER-077,Nagita Slavina,nagita.s@email.com,Perempuan,1988-02-17,Jaringan Baru
+78,USER-078,Raditya Dika,raditya.d@email.com,Laki-laki,1984-12-28,Pemburu Diskon
+79,USER-079,Cinta Laura,cinta.l@email.com,Perempuan,1993-08-17,Loyal
+80,USER-080,Deddy Corbuzier,deddy.c@email.com,Laki-laki,1976-12-28,Loyal
+81,USER-081,Anang Hermansyah,anang.h@email.com,Laki-laki,1969-03-18,Jaringan Baru
+82,USER-082,Ashanty,ashanty@email.com,Perempuan,1984-11-04,Pemburu Diskon
+83,USER-083,Atta Halilintar,atta.h@email.com,Laki-laki,1994-11-20,Loyal
+84,USER-084,Aurel Hermansyah,aurel.h@email.com,Perempuan,1998-07-10,Loyal
+85,USER-085,Baim Wong,baim.w@email.com,Laki-laki,1981-04-27,Jaringan Baru
+86,USER-086,Paula Verhoeven,paula.v@email.com,Perempuan,1987-09-18,Pemburu Diskon
+87,USER-087,Ria Ricis,ria.ricis@email.com,Perempuan,1995-07-26,Loyal
+88,USER-088,Teuku Ryan,teuku.r@email.com,Laki-laki,1994-10-04,Loyal
+89,USER-089,Lesti Kejora,lesti.k@email.com,Perempuan,1999-08-05,Jaringan Baru
+90,USER-090,Rizky Billar,rizky.b@email.com,Laki-laki,1995-07-12,Pemburu Diskon
+91,USER-091,Andre Taulany,andre.t@email.com,Laki-laki,1974-09-17,Loyal
+92,USER-092,Desta Mahendra,desta.m@email.com,Laki-laki,1977-03-15,Loyal
+93,USER-093,Vincent Rompies,vincent.r@email.com,Laki-laki,1980-03-29,Jaringan Baru
+94,USER-094,Hesti Purwadinata,hesti.p2@email.com,Perempuan,1983-06-15,Pemburu Diskon
+95,USER-095,Enzy Storia,enzy.s@email.com,Perempuan,1992-08-10,Loyal
+96,USER-096,Tora Sudiro,tora.s@email.com,Laki-laki,1973-05-10,Loyal
+97,USER-097,Arie Kriting,arie.k@email.com,Laki-laki,1985-04-13,Jaringan Baru
+98,USER-098,Indah Permatasari,indah.p2@email.com,Perempuan,1997-05-16,Pemburu Diskon
+99,USER-099,Abdur Arsyad,abdur.a@email.com,Laki-laki,1988-04-06,Loyal
+100,USER-100,Mamat Alkatiri,mamat.a@email.com,Laki-laki,1992-06-24,Loyal
+101,USER-101,Soleh Solihun,soleh.s@email.com,Laki-laki,1979-06-02,Jaringan Baru
+102,USER-102,Ernest Prakasa,ernest.p@email.com,Laki-laki,1982-01-29,Pemburu Diskon
+103,USER-103,Radhika Pratama,radhika.p@email.com,Laki-laki,1991-03-15,Loyal
+104,USER-104,Fitria Yusuf,fitria.y@email.com,Perempuan,1987-11-20,Loyal
+105,USER-105,Glenn Fredly,glenn.f@email.com,Laki-laki,1975-09-30,Jaringan Baru
+106,USER-106,Mutia Ayu,mutia.a@email.com,Perempuan,1995-04-04,Pemburu Diskon
+107,USER-107,Tompi,tompi@email.com,Laki-laki,1978-09-22,Loyal
+108,USER-108,Sandhy Sondoro,sandhy.s@email.com,Laki-laki,1973-12-12,Loyal
+109,USER-109,Afgansyah Reza,afgan@email.com,Laki-laki,1989-05-27,Jaringan Baru
+110,USER-110,Raisa Andriana,raisa@email.com,Perempuan,1990-06-06,Pemburu Diskon
+111,USER-111,Isyana Sarasvati,isyana@email.com,Perempuan,1993-05-02,Loyal
+112,USER-112,Tulus,tulus@email.com,Laki-laki,1987-08-20,Loyal
+113,USER-113,Rizky Febian,rizky.f@email.com,Laki-laki,1998-02-25,Jaringan Baru
+114,USER-114,Mahalini Raharja,mahalini@email.com,Perempuan,2000-03-04,Pemburu Diskon
+115,USER-115,Lyodra Ginting,lyodra@email.com,Perempuan,2003-06-21,Loyal
+116,USER-116,Tiara Andini,tiara.a@email.com,Perempuan,2001-09-23,Loyal
+117,USER-117,Ziva Magnolya,ziva.m@email.com,Perempuan,2001-03-14,Jaringan Baru
+118,USER-118,Keisya Levronka,keisya.l@email.com,Perempuan,2003-02-02,Pemburu Diskon
+119,USER-119,Anggi Marito,anggi.m@email.com,Perempuan,2002-03-06,Loyal
+120,USER-120,Judika Sihotang,judika@email.com,Laki-laki,1978-08-31,Loyal
+121,USER-121,Dewa Budjana,dewa.b@email.com,Laki-laki,1963-08-30,Jaringan Baru
+122,USER-122,Andra Ramadhan,andra.r@email.com,Laki-laki,1972-06-17,Pemburu Diskon
+123,USER-123,Ari Lasso,ari.lasso@email.com,Laki-laki,1973-01-17,Loyal
+124,USER-124,Once Mekel,once@email.com,Laki-laki,1970-05-21,Loyal
+125,USER-125,Armand Maulana,armand.m@email.com,Laki-laki,1971-04-04,Jaringan Baru
+126,USER-126,Kaka Slank,kaka.s@email.com,Laki-laki,1974-03-10,Pemburu Diskon
+127,USER-127,Bimbim Slank,bimbim@email.com,Laki-laki,1966-12-25,Loyal
+128,USER-128,Abdee Negara,abdee@email.com,Laki-laki,1968-06-28,Loyal
+129,USER-129,Ridho Slank,ridho.s@email.com,Laki-laki,1973-09-03,Jaringan Baru
+130,USER-130,Ivanka Slank,ivanka@email.com,Laki-laki,1971-12-09,Pemburu Diskon
+131,USER-131,Iwan Fals,iwan.fals@email.com,Laki-laki,1961-09-03,Loyal
+132,USER-132,Ebiet G Ade,ebiet.g@email.com,Laki-laki,1954-04-21,Loyal
+133,USER-133,Chrisye,chrisye@email.com,Laki-laki,1949-09-16,Jaringan Baru
+134,USER-134,Nike Ardilla,nike.a@email.com,Perempuan,1975-12-27,Pemburu Diskon
+135,USER-135,Poppy Mercury,poppy.m@email.com,Perempuan,1973-11-15,Loyal
+136,USER-136,Inka Christie,inka.c@email.com,Perempuan,1975-01-20,Loyal
+137,USER-137,Nicky Astria,nicky.a@email.com,Perempuan,1967-10-18,Jaringan Baru
+138,USER-138,Anggun C Sasmi,anggun@email.com,Perempuan,1974-04-29,Pemburu Diskon
+139,USER-139,Agnez Mo,agnezmo@email.com,Perempuan,1986-07-01,Loyal
+140,USER-140,Rich Brian,rich.brian@email.com,Laki-laki,1999-09-03,Loyal
+141,USER-141,Niki Zefanya,niki@email.com,Perempuan,1999-01-24,Jaringan Baru
+142,USER-142,Warren Hue,warren@email.com,Laki-laki,2002-06-02,Pemburu Diskon
+143,USER-143,Stephanie Poetri,stephanie@email.com,Perempuan,2000-05-20,Loyal
+144,USER-144,Titi DJ,titi.dj@email.com,Perempuan,1966-05-27,Loyal
+145,USER-145,Ruth Sahanaya,uthie@email.com,Perempuan,1966-09-01,Jaringan Baru
+146,USER-146,Krisdayanti,kd@email.com,Perempuan,1975-03-24,Pemburu Diskon
+147,USER-147,Yuni Shara,yuni.shara@email.com,Perempuan,1972-06-03,Loyal
+148,USER-148,Iis Sugianto,iis.sugi@email.com,Perempuan,1961-11-17,Loyal
+149,USER-149,Hetty Koes Endang,hetty@email.com,Perempuan,1957-08-06,Jaringan Baru
+150,USER-150,Titiek Puspa,titiek.p@email.com,Perempuan,1937-11-01,Pemburu Diskon
+151,USER-151,Rhoma Irama,rhoma@email.com,Laki-laki,1946-12-11,Loyal
+152,USER-152,Elvy Sukaesih,elvy@email.com,Perempuan,1951-06-25,Loyal
+153,USER-153,Mansyur S,mansyur@email.com,Laki-laki,1948-11-30,Jaringan Baru
+154,USER-154,Meggy Z,meggy.z@email.com,Laki-laki,1945-08-24,Pemburu Diskon
+155,USER-155,A Rafiq,a.rafiq@email.com,Laki-laki,1948-03-05,Loyal
+156,USER-156,Hamdan ATT,hamdan@email.com,Laki-laki,1950-01-27,Loyal
+157,USER-157,Ida Laila,ida.l@email.com,Perempuan,1943-11-27,Jaringan Baru
+158,USER-158,Cici Paramida,cici.p@email.com,Perempuan,1973-09-07,Pemburu Diskon
+159,USER-159,Ikke Nurjanah,ikke@email.com,Perempuan,1974-05-18,Loyal
+160,USER-160,Evie Tamala,evie.t2@email.com,Perempuan,1969-04-17,Loyal
+161,USER-161,Inul Daratista,inul@email.com,Perempuan,1979-01-21,Jaringan Baru
+162,USER-162,Uut Permatasari,uut@email.com,Perempuan,1982-04-07,Pemburu Diskon
+163,USER-163,Dewi Perssik,depe@email.com,Perempuan,1985-12-16,Loyal
+164,USER-164,Ayu Ting Ting,ayu.tt@email.com,Perempuan,1992-06-20,Loyal
+165,USER-165,Via Vallen,via.vallen@email.com,Perempuan,1991-10-01,Jaringan Baru
+166,USER-166,Nella Kharisma,nella@email.com,Perempuan,1994-11-04,Pemburu Diskon
+167,USER-167,Happy Asmara,happy@email.com,Perempuan,1999-07-10,Loyal
+168,USER-168,Denny Caknan,denny.c@email.com,Laki-laki,1993-12-10,Loyal
+169,USER-169,Ndarboy Genk,ndarboy@email.com,Laki-laki,1993-05-15,Jaringan Baru
+170,USER-170,Guyon Waton,guyon@email.com,Laki-laki,1995-08-18,Pemburu Diskon
+171,USER-171,Gombloh,gombloh@email.com,Laki-laki,1948-07-14,Loyal
+172,USER-172,Franky Sahilatua,franky@email.com,Laki-laki,1953-08-16,Loyal
+173,USER-173,Leo Kristi,leo.k@email.com,Laki-laki,1949-08-08,Jaringan Baru
+174,USER-174,Doel Sumbang,doel@email.com,Laki-laki,1963-05-16,Pemburu Diskon
+175,USER-175,Nani Wijaya,nani.w@email.com,Perempuan,1944-11-10,Loyal
+176,USER-176,Rano Karno,rano@email.com,Laki-laki,1960-10-08,Loyal
+177,USER-177,Yessy Gusman,yessy@email.com,Perempuan,1962-07-21,Jaringan Baru
+178,USER-178,Sophan Sophiaan,sophan@email.com,Laki-laki,1944-04-26,Pemburu Diskon
+179,USER-179,Widyawati,widyawati@email.com,Perempuan,1950-07-12,Loyal
+180,USER-180,Roy Marten,roy.marten@email.com,Laki-laki,1952-03-01,Loyal
+181,USER-181,Dedi Mizwar,dedi.mizwar@email.com,Laki-laki,1955-03-05,Jaringan Baru
+182,USER-182,Christine Hakim,christine@email.com,Perempuan,1956-12-25,Pemburu Diskon
+183,USER-183,Slamet Rahardjo,slamet.r@email.com,Laki-laki,1949-01-21,Loyal
+184,USER-184,Dewi Yull,dewi.yull@email.com,Perempuan,1961-05-10,Loyal
+185,USER-185,Meriam Bellina,meriam@email.com,Perempuan,1965-04-10,Jaringan Baru
+186,USER-186,Lydia Kandou,lydia@email.com,Perempuan,1962-02-21,Pemburu Diskon
+187,USER-187,Jamal Mirdad,jamal@email.com,Laki-laki,1960-05-07,Loyal
+188,USER-188,Rano Karno,rano.k@email.com,Laki-laki,1960-10-08,Loyal
+189,USER-189,Paramitha Rusady,mitha@email.com,Perempuan,1966-08-11,Jaringan Baru
+190,USER-190,Desy Ratnasari,desy@email.com,Perempuan,1973-12-12,Pemburu Diskon
+191,USER-191,Primus Yustisio,primus@email.com,Laki-laki,1977-08-17,Loyal
+192,USER-192,Jihan Fahira,jihan@email.com,Perempuan,1978-01-06,Loyal
+193,USER-193,Anjasmara,anjasmara@email.com,Laki-laki,1975-11-13,Jaringan Baru
+194,USER-194,Dian Nitami,dian.nitami@email.com,Perempuan,1971-06-18,Pemburu Diskon
+195,USER-195,Nicholas Saputra,nicsap@email.com,Laki-laki,1984-02-24,Loyal
+196,USER-196,Dian Sastrowardoyo,diansastro@email.com,Perempuan,1982-03-16,Loyal
+197,USER-197,Ladya Cheryl,ladya@email.com,Perempuan,1981-04-11,Jaringan Baru
+198,USER-198,Adinia Wirasti,adinia@email.com,Perempuan,1987-01-19,Pemburu Diskon
+199,USER-199,Titi Kamal,tikam@email.com,Perempuan,1981-12-07,Loyal
+200,USER-200,Christian Sugiono,tian@email.com,Laki-laki,1981-02-25,Loyal

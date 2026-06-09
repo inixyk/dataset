@@ -1,0 +1,51 @@
+Kota_SK,Kota_ID_Sistem,Nama_Kota,Provinsi,Pulau,Kode_Pos
+1,KOTA-001,Jakarta Pusat,DKI Jakarta,Jawa,10110
+2,KOTA-002,Jakarta Utara,DKI Jakarta,Jawa,14110
+3,KOTA-003,Jakarta Barat,DKI Jakarta,Jawa,11110
+4,KOTA-004,Jakarta Selatan,DKI Jakarta,Jawa,12110
+5,KOTA-005,Jakarta Timur,DKI Jakarta,Jawa,13110
+6,KOTA-006,Bandung,Jawa Barat,Jawa,40111
+7,KOTA-007,Bekasi,Jawa Barat,Jawa,17111
+8,KOTA-008,Depok,Jawa Barat,Jawa,16411
+9,KOTA-009,Bogor,Jawa Barat,Jawa,16111
+10,KOTA-010,Tangerang,Banten,Jawa,15111
+11,KOTA-011,Tangerang Selatan,Banten,Jawa,15411
+12,KOTA-012,Cirebon,Jawa Barat,Jawa,45111
+13,KOTA-013,Tasikmalaya,Jawa Barat,Jawa,46111
+14,KOTA-014,Semarang,Jawa Tengah,Jawa,50111
+15,KOTA-015,Solo,Jawa Tengah,Jawa,57111
+16,KOTA-016,Surakarta,Jawa Tengah,Jawa,57112
+17,KOTA-017,Magelang,Jawa Tengah,Jawa,56111
+18,KOTA-018,Yogyakarta,DI Yogyakarta,Jawa,55111
+19,KOTA-019,Surabaya,Jawa Timur,Jawa,60111
+20,KOTA-020,Malang,Jawa Timur,Jawa,65111
+21,KOTA-021,Sidoarjo,Jawa Timur,Jawa,61211
+22,KOTA-022,Gresik,Jawa Timur,Jawa,61111
+23,KOTA-023,Medan,Sumatera Utara,Sumatera,20111
+24,KOTA-024,Palembang,Sumatera Selatan,Sumatera,30111
+25,KOTA-025,Pekanbaru,Riau,Sumatera,28111
+26,KOTA-026,Padang,Sumatera Barat,Sumatera,25111
+27,KOTA-027,Batam,Kepulauan Riau,Sumatera,29411
+28,KOTA-028,Bandar Lampung,Lampung,Sumatera,35111
+29,KOTA-029,Jambi,Jambi,Sumatera,36111
+30,KOTA-030,Bengkulu,Bengkulu,Sumatera,38111
+31,KOTA-031,Banda Aceh,Aceh,Sumatera,23111
+32,KOTA-032,Makassar,Sulawesi Selatan,Sulawesi,90111
+33,KOTA-033,Manado,Sulawesi Utara,Sulawesi,95111
+34,KOTA-034,Palu,Sulawesi Tengah,Sulawesi,94111
+35,KOTA-035,Kendari,Sulawesi Tenggara,Sulawesi,93111
+36,KOTA-036,Gorontalo,Gorontalo,Sulawesi,96111
+37,KOTA-037,Balikpapan,Kalimantan Timur,Kalimantan,76111
+38,KOTA-038,Samarinda,Kalimantan Timur,Kalimantan,75111
+39,KOTA-039,Banjarmasin,Kalimantan Selatan,Kalimantan,70111
+40,KOTA-040,Pontianak,Kalimantan Barat,Kalimantan,78111
+41,KOTA-041,Palangkaraya,Kalimantan Tengah,Kalimantan,73111
+42,KOTA-042,Denpasar,Bali,Bali & Nusa Tenggara,80111
+43,KOTA-043,Mataram,Nusa Tenggara Barat,Bali & Nusa Tenggara,83111
+44,KOTA-044,Kupang,Nusa Tenggara Timur,Bali & Nusa Tenggara,85111
+45,KOTA-045,Ambon,Maluku,Maluku & Papua,97111
+46,KOTA-046,Ternate,Maluku Utara,Maluku & Papua,97711
+47,KOTA-047,Jayapura,Papua,Maluku & Papua,99111
+48,KOTA-048,Sorong,Papua Barat,Maluku & Papua,98411
+49,KOTA-049,Manokwari,Papua Barat,Maluku & Papua,98311
+50,KOTA-050,Merauke,Papua Selatan,Maluku & Papua,99611

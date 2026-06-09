@@ -1,0 +1,6 @@
+Ekspedisi_SK,Ekspedisi_ID_Sistem,Nama_Kurir_Perusahaan,Layanan_Pengiriman
+1,EXP-001,JNE,Reguler
+2,EXP-002,J&T,Reguler
+3,EXP-003,SiCepat,Kargo
+4,EXP-004,Gojek,Same Day
+5,EXP-005,Grab,Instant
