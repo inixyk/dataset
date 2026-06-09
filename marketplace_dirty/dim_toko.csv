@@ -3,21 +3,22 @@ Toko_SK,Toko_ID_Sistem,Nama_Toko,Status_Toko,Rating_Toko,Kota_Toko
 2,TOKO-002,Fashionista Boutique,Power Merchant,4.7,Bandung
 3,TOKO-003,Warung Sembako Makmur,Regular,4.2,Surabaya
 4,TOKO-004,Gadget Murah ID,Power Merchant,4.6,Medan
-5,TOKO-005,Buku Utama Official,Official Store,5.0,Yogyakarta
+5,TOKO-005,Buku Utama Official,official store,5.0,Yogyakarta
 6,TOKO-006,Sinar Terang Lighting,Regular,4.4,Semarang
 7,TOKO-007,Beauty Corner,Power Merchant,4.8,Makassar
-8,TOKO-008,Sport Station Kw,Regular,3.9,Palembang
+8,TOKO-008,Sport Station Kw,Reguler,3.9,Palembang
 9,TOKO-009,Baby Care Pratama,Power Merchant,4.5,Denpasar
-10,TOKO-010,Kopi Nusantara Shop,Official Store,4.9,Malang
+10,TOKO-010,Kopi Nusantara Shop,OFFICIAL STORE,4.9,Malang
 11,TOKO-011,Auto Parts Mandiri,Regular,4.3,Bekasi
-12,TOKO-012,Hijab Trendy,Power Merchant,4.7,Depok
+12,TOKO-012,Hijab Trendy ,Power Merchant,4.7,Depok
 13,TOKO-013,Computer Zone,Official Store,4.8,Tangerang
-14,TOKO-014,Organik Mart,Power Merchant,4.6,Bogor
+14,TOKO-014,Organik Mart,Power Merchan,4.6,Bogor
 15,TOKO-015,Mainan Anak Seru,Regular,4.1,Solo
+2,TOKO-002,Fashionista Boutique,Power Merchant,4.7,Bandung
 16,TOKO-016,Gaya Pria Store,Power Merchant,4.5,Balikpapan
-17,TOKO-017,Dapur Cantik Utensil,Regular,4.4,Samarinda
+17,TOKO-017,Dapur Cantik Utensil,Regular,NULL,Samarinda
 18,TOKO-018,Herbal Alami Mandiri,Power Merchant,4.7,Banjarmasin
-19,TOKO-019,Sepatu Lokal ID,Official Store,4.9,Bandung
+19,TOKO-019,Sepatu Lokal ID,Official Store,55,Bandung
 20,TOKO-020,Pet Shop Bahagia,Regular,4.2,Pontianak
 21,TOKO-021,Home Decor Minimalis,Power Merchant,4.6,Tangerang Selatan
 22,TOKO-022,Grosir ATK Murah,Regular,4.0,Pekanbaru
@@ -26,10 +27,10 @@ Toko_SK,Toko_ID_Sistem,Nama_Toko,Status_Toko,Rating_Toko,Kota_Toko
 25,TOKO-025,Outdoor Gear Center,Regular,4.3,Malang
 26,TOKO-026,Alat Kesehatan Prima,Official Store,4.9,Jakarta Barat
 27,TOKO-027,Baju Anak Lucu,Power Merchant,4.5,Surakarta
-28,TOKO-028,Aksesoris Motor Oke,Regular,4.1,Sidoarjo
+28,TOKO-028,Aksesoris Motor Oke,Regular,-4.5,Sidoarjo
 29,TOKO-029,Fotografi Pro Camera,Official Store,4.9,Jakarta Utara
 30,TOKO-030,Kue Kering Mama,Regular,4.4,Gresik
-31,TOKO-031,Vape King Store,Power Merchant,4.6,Batam
+31,TOKO-031,Vape King Store,Power Merchant,N/A,Batam
 32,TOKO-032,Perhiasan Perak Bali,Official Store,4.8,Denpasar
 33,TOKO-033,Perlengkapan Rumah Tangga,Regular,4.2,Manado
 34,TOKO-034,Kaos Polos Premium,Power Merchant,4.7,Yogyakarta
@@ -39,7 +40,7 @@ Toko_SK,Toko_ID_Sistem,Nama_Toko,Status_Toko,Rating_Toko,Kota_Toko
 38,TOKO-038,Alat Musik Melodi,Regular,4.0,Medan
 39,TOKO-039,Gaming Gear Indonesia,Official Store,5.0,Surabaya
 40,TOKO-040,Batik Solo Lestari,Power Merchant,4.8,Surakarta
-41,TOKO-041,Kosmetik Korea Original,Power Merchant,4.7,Bandung
+41,TOKO-041,Kosmetik Korea Original,Power Merchant,4.7,Bandung   
 42,TOKO-042,Perkakas Tukang Ahli,Regular,4.2,Semarang
 43,TOKO-043,Susu Anak Formula,Official Store,4.9,Bekasi
 44,TOKO-044,Sepeda Gunung Mania,Power Merchant,4.5,Bogor
