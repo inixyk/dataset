@@ -1,0 +1,30 @@
+Klik Transform Data untuk masuk ke Power Query Editor.
+Pada tab Home, klik New Source > pilih Blank Query.
+Di sebelah kanan, ubah nama query-nya menjadi Dim_Waktu.
+Pada tab Home, klik Advanced Editor.
+Hapus semua kode yang ada di sana, lalu ganti/paste dengan kode M Language berikut:
+=====================
+
+
+let
+    // Tentukan tanggal mulai dan jumlah hari yang ingin di-generate
+    StartDate = #date(2026, 1, 1),
+    EndDate = #date(2026, 12, 31),
+    CountDays = Duration.Days(Duration.From(EndDate - StartDate)) + 1,
+    
+    // Generate daftar tanggal
+    Source = List.Dates(StartDate, CountDays, #duration(1, 0, 0, 0)),
+    TableFromList = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    RenameDateColumn = Table.RenameColumns(TableFromList,{{"Column1", "Tanggal"}}),
+    ChangeType = Table.TransformColumnTypes(RenameDateColumn,{{"Tanggal", type date}}),
+    
+    // Tambahkan kolom-kolom dimensi waktu
+    AddWaktuSK = Table.AddColumn(ChangeType, "Waktu_SK", each Number.From(Date.ToText([Tanggal], "yyyyMMdd")), Int64.Type),
+    AddHari = Table.AddColumn(AddWaktuSK, "Hari", each Date.Day([Tanggal]), Int64.Type),
+    AddNamaHari = Table.AddColumn(AddHari, "Nama_Hari", each Date.DayOfWeekName([Tanggal], "id-ID"), type text),
+    AddBulanAngka = Table.AddColumn(AddNamaHari, "Bulan_Angka", each Date.Month([Tanggal]), Int64.Type),
+    AddNamaBulan = Table.AddColumn(AddBulanAngka, "Nama_Bulan", each Date.MonthName([Tanggal], "id-ID"), type text),
+    AddKuartal = Table.AddColumn(AddNamaBulan, "Kuartal", each "Q" & Text.From(Date.QuarterOfYear([Tanggal])), type text),
+    AddTahun = Table.AddColumn(AddKuartal, "Tahun", each Date.Year([Tanggal]), Int64.Type)
+in
+    AddTahun
